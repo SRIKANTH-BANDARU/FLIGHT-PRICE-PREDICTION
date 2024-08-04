@@ -14,3 +14,5 @@ Model Evaluation: Assessing the performance of the trained model using appropria
 Deployment: Creating a user-friendly interface or API where users can input their information, and the model can predict the likelihood of Flight Price Prediction .
 
 Through this project, I aim to provide insights into the factors influencing Flight Price Predictionand develop a reliable predictive model that can provide more reliable estimations, aiding airlines and travelers alike in making informed decisions regarding ticket pricing and itinerary planning.. The code and documentation will be made available on GitHub for anyone interested in replicating the project or exploring further.
+
+
