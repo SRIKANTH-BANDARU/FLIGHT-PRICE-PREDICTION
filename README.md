@@ -15,4 +15,5 @@ Deployment: Creating a user-friendly interface or API where users can input thei
 
 Through this project, I aim to provide insights into the factors influencing Flight Price Predictionand develop a reliable predictive model that can provide more reliable estimations, aiding airlines and travelers alike in making informed decisions regarding ticket pricing and itinerary planning.. The code and documentation will be made available on GitHub for anyone interested in replicating the project or exploring further.
 
+![image](https://github.com/user-attachments/assets/8acacb73-22a6-4702-ba42-2ea0f2798213)
 
